@@ -24,4 +24,3 @@ This repository contains core source configurations, codebase environments, and 
 
 1. Mastery over foundational machine learning workflows including splitting pipelines (Train/Test splits) and verifying model over-fitting.
 2. Practical knowledge of deploying predictive logic engines rather than relying purely on theoretical algorithmic models.
-3. 
